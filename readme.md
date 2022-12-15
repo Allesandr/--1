@@ -16,7 +16,7 @@ LICENSE: [MIT](license.md)
 6. [Работа с репозиторием](./work_with_reposit.md)
 7. [Операция git push](./push.md)
 8. [Операция git status](./status.md)
-9. [Заключение]
+9. [Заключение](./end.md)
 10. [Ссылки на источники](./links.md)
 
 ---
