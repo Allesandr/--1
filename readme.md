@@ -8,9 +8,10 @@ LICENSE: [MIT](license.md)
 
 
 ### Содержание:
-1. [Что такое Git](./GIT.md)
-2. [git add](./add.md)
-
+1. [Что такое Git?](./GIT.md)
+2. [Настройка Git](./Git_init.md)
+3. [Операция git add](./add.md)
+4. [Операция git commit](./commit.md)
 
 ---
 
